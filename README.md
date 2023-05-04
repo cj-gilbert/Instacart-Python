@@ -36,4 +36,4 @@ Fictitious customer information and fictitious prices for products created by Ca
 
 •	**Visualizing data:** used Matplotlib and Seaborn to create histograms, line charts, pie charts, and bar charts (vertical/horizontal, stacked, and 100% stacked).  Customized colors, legends, labels and annotations for clarity and visual consistency. 
 
-•	**Reporting results:** provided an Excel file that vividly explained the answers to all questions from sales/marketing as well as documenting the data population flow, consistency checks, data wrangling, and column derivations.  
+•	**Reporting results:** provided an Excel file that vividly explained the answers to all questions from sales/marketing as well as documenting the data population flow, consistency checks, data wrangling, and column derivations.
