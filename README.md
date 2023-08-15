@@ -20,7 +20,7 @@ Fictitious customer information and fictitious prices for products created by Ca
 ### TOOLS
 *Language:* Python
 
-*Libraries:* Matplotlib and Seaborn
+*Libraries:* Pandas, NumPy, Matplotlib and Seaborn
 
 *Software:* Jupyter Notebooks and Excel
 
