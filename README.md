@@ -12,7 +12,7 @@ A demo project using Jupyter Notebooks to clean, merge, analyze and finally visu
 •	Create customer profiles based on combinations of variables and analyze how their ordering behaviors may differ (for instance, parents of babies, pet owners, senior citizens, etc.)
 
 ### DATA
-Order and product information borrowed with permission from “The Instacart Online Grocery Shopping Dataset 2017.” Accessed on 3/6/2023 via https://www.instacart.com/datasets/grocery-shopping-2017
+Order and product information borrowed with permission (and thanks) from “The Instacart Online Grocery Shopping Dataset 2017.” Accessed on 3/6/2023 via https://www.instacart.com/datasets/grocery-shopping-2017
 
 Fictitious customer information and fictitious prices for products created by CareerFoundry for the purposes of this project: https://s3.amazonaws.com/coach-courses-us/public/courses/data-immersion/A4/A4_Data_Assets/customers.zip 
 
@@ -37,3 +37,9 @@ Fictitious customer information and fictitious prices for products created by Ca
 •	**Visualizing data:** used Matplotlib and Seaborn to create histograms, line charts, pie charts, and bar charts (vertical/horizontal, stacked, and 100% stacked).  Customized colors, legends, labels and annotations for clarity and visual consistency. 
 
 •	**Reporting results:** provided an Excel file that vividly explained the answers to all questions from sales/marketing as well as documenting the data population flow, consistency checks, data wrangling, and column derivations.
+
+### IMAGE ATTRIBUTION
+The shopping cart icon used for this project on GitHub was adapted from
+<a href="https://www.vecteezy.com/free-vector/shopping-cart">Shopping Cart Vectors by Vecteezy</a>
+
+The Instacart logo is trademarked by Instacart.
